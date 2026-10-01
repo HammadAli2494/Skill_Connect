@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Demo image for tutoring">
+  <rect width="640" height="400" fill="#E7F0EA"/>
+  <rect x="90" y="70" width="460" height="230" fill="#FFFDFB" stroke="#1E4D3A"/>
+  <text x="120" y="160" fill="#1E4D3A" font-family="Georgia, serif" font-size="42">A + B</text>
+  <text x="90" y="350" fill="#1C1917" font-family="Georgia, serif" font-size="28">Tutoring</text>
+</svg>

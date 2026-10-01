@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F6F4F1"/>
+  <rect x="80" y="210" width="120" height="120" rx="8" fill="#1E3A5F"/>
+  <path fill="#F6F4F1" d="M104 242h36c16 0 26 8 26 20 0 8-5 15-12 18 10 3 15 10 15 19 0 14-11 23-29 23h-36v-80zm16 28h13c6 0 10-3 10-8s-4-7-10-7h-13v15zm0 32h15c7 0 11-3 11-8s-4-8-11-8h-15v16z"/>
+  <text x="230" y="268" fill="#1E3A5F" font-family="Georgia, serif" font-size="64">Skill Connect</text>
+  <text x="230" y="328" fill="#57534E" font-family="Segoe UI, sans-serif" font-size="28">Find a service provider for the job you need.</text>
+</svg>

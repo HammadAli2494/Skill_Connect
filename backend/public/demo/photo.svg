@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Demo image for photography">
+  <rect width="640" height="400" fill="#3D4A44"/>
+  <rect x="170" y="90" width="300" height="200" rx="8" fill="#1C1917"/>
+  <circle cx="320" cy="190" r="48" fill="#F4F1EB"/>
+  <text x="48" y="350" fill="#F4F1EB" font-family="Georgia, serif" font-size="28">Photography</text>
+</svg>

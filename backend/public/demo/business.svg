@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Demo image for business support">
+  <rect width="640" height="400" fill="#243028"/>
+  <rect x="80" y="80" width="140" height="180" fill="#F4F1EB"/>
+  <rect x="250" y="130" width="140" height="130" fill="#E7E0D6"/>
+  <rect x="420" y="160" width="140" height="100" fill="#C8BEB2"/>
+  <text x="80" y="340" fill="#F4F1EB" font-family="Georgia, serif" font-size="28">Business support</text>
+</svg>

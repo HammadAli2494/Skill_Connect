@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Demo image for graphic design">
+  <rect width="640" height="400" fill="#E7E0D6"/>
+  <circle cx="220" cy="180" r="90" fill="#1E4D3A"/>
+  <rect x="340" y="110" width="200" height="140" fill="#1C1917"/>
+  <text x="48" y="350" fill="#1C1917" font-family="Georgia, serif" font-size="28">Graphic design</text>
+</svg>

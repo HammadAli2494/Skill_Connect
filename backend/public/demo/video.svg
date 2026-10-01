@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Demo image for video editing">
+  <rect width="640" height="400" fill="#3F342C"/>
+  <rect x="70" y="70" width="500" height="220" fill="#1C1917"/>
+  <polygon points="290,140 290,220 370,180" fill="#F4F1EB"/>
+  <text x="70" y="350" fill="#F4F1EB" font-family="Georgia, serif" font-size="28">Video editing</text>
+</svg>

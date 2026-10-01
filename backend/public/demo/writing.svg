@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Demo image for writing">
+  <rect width="640" height="400" fill="#F4F1EB"/>
+  <rect x="80" y="60" width="480" height="250" fill="#FFFDFB" stroke="#E4DCD0"/>
+  <rect x="110" y="100" width="300" height="12" fill="#1C1917"/>
+  <rect x="110" y="130" width="400" height="8" fill="#C8BEB2"/>
+  <rect x="110" y="150" width="360" height="8" fill="#C8BEB2"/>
+  <text x="80" y="360" fill="#1C1917" font-family="Georgia, serif" font-size="28">Writing</text>
+</svg>
